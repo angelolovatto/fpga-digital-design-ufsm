@@ -12,7 +12,7 @@ Finite-state-machine based controller with timed state transitions, pedestrian r
 ### Seven-State FSM
 Design and simulation of a synthesizable seven-state finite-state machine with a dedicated testbench.
 
-### FUMIGA / MIÓCA
+### "Formiga e Minhoca"
 Academic digital systems involving state-based control, timing, and multiplexed seven-segment display output.
 
 ### 5-input / 3-output Combinational Circuit
