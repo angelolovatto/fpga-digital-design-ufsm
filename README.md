@@ -9,6 +9,8 @@ The projects explored combinational and sequential logic, finite-state machines,
 ### Traffic Light Controller
 Finite-state-machine based controller with timed state transitions, pedestrian requests, and additional operating modes.
 
+**Academic report:** [Traffic Light Controller Report (PDF)](docs/traffic-light-controller-report.pdf)
+
 ### Seven-State FSM
 Design and simulation of a synthesizable seven-state finite-state machine with a dedicated testbench.
 
@@ -22,9 +24,13 @@ Combinational-logic implementation and verification covering the complete input 
 
 `VHDL` · `FPGA` · `FSM` · `Testbench` · `Xilinx ISE/ISim` · `Spartan-6` · `Nexys 3` · `Combinational Logic` · `Sequential Logic`
 
+## Repository contents
+
+This repository currently focuses on portfolio documentation and the selected academic report above. Source files are only added when their authorship is fully clear.
+
 ## Note on source material
 
-This repository is intentionally documentation-only for now. I am not republishing course templates, instructor-provided material, or source files whose authorship is not fully clear. Only my own work will be added here.
+I do not republish course templates, instructor-provided material, or source files whose authorship is uncertain. Only my own work is presented here.
 
 ## Author
 
