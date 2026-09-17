@@ -11,14 +11,8 @@ Finite-state-machine based controller with timed state transitions, pedestrian r
 
 **Academic report:** [Traffic Light Controller Report (PDF)](docs/traffic-light-controller-report.pdf)
 
-### Seven-State FSM
-Design and simulation of a synthesizable seven-state finite-state machine with a dedicated testbench.
-
-### "Formiga e Minhoca"
-Academic digital systems involving state-based control, timing, and multiplexed seven-segment display output.
-
-### 5-input / 3-output Combinational Circuit
-Combinational-logic implementation and verification covering the complete input truth table.
+### Other projects
+Also have other projects that works with design and simulation of a synthesizable seven-state finite-state machine with a dedicated testbench. An academic digital systems involving state-based control, timing, and multiplexed seven-segment display output. And a combinational-logic implementation and verification covering the complete input truth table.
 
 ## Technologies and concepts
 
